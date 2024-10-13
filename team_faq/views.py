@@ -14,3 +14,7 @@ def index_view(request):
         'offers': offers,
     }
     return render(request, 'index.html', context=context)
+
+
+def _404_page_view(request):
+    return render(request, 'main/404/404.html')
