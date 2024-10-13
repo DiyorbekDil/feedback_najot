@@ -1,5 +1,5 @@
 from django.contrib import admin
-from Team_FAQ.models import *
+from team_faq.models import *
 
 
 @admin.register(TeamModel)

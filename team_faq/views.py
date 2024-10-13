@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from Team_FAQ.models import TeamModel, FAQModel
+from team_faq.models import TeamModel, FAQModel
 from offers_problems.models import OfferModel
 # Create your views here.
 

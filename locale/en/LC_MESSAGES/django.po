@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-11 11:58+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: .\Team_FAQ\models.py:7
+msgid "First Name"
+msgstr ""
+
+#: .\Team_FAQ\models.py:8
+msgid "Last name"
+msgstr ""
+
+#: .\Team_FAQ\models.py:9
+msgid "Experience description"
+msgstr ""
+
+#: .\Team_FAQ\models.py:10
+msgid "position"
+msgstr ""
+
+#: .\Team_FAQ\models.py:11 .\users\models.py:18
+msgid "Avatar"
+msgstr ""
+
+#: .\Team_FAQ\models.py:17
+msgid "Team"
+msgstr ""
+
+#: .\Team_FAQ\models.py:18
+msgid "Teams"
+msgstr ""
+
+#: .\Team_FAQ\models.py:22
+msgid "Question"
+msgstr ""
+
+#: .\Team_FAQ\models.py:23
+msgid "Answer"
+msgstr ""
+
+#: .\Team_FAQ\models.py:26
+msgid "FAQ"
+msgstr ""
+
+#: .\Team_FAQ\models.py:27
+msgid "FAQs"
+msgstr ""
+
+#: .\comments\models.py:8
+msgid "Content"
+msgstr ""
+
+#: .\comments\models.py:11 .\offers_problems\models.py:16
+msgid "Offer"
+msgstr ""
+
+#: .\comments\models.py:12 .\offers_problems\models.py:10 .\users\models.py:28
+msgid "User"
+msgstr ""
+
+#: .\comments\models.py:18
+msgid "Comment"
+msgstr ""
+
+#: .\comments\models.py:19
+msgid "Comments"
+msgstr ""
+
+#: .\offers_problems\models.py:7 .\offers_problems\models.py:21
+msgid "Title"
+msgstr ""
+
+#: .\offers_problems\models.py:8 .\offers_problems\models.py:22
+msgid "Description"
+msgstr ""
+
+#: .\offers_problems\models.py:17
+msgid "Offers"
+msgstr ""
+
+#: .\offers_problems\models.py:28
+msgid "Problem"
+msgstr ""
+
+#: .\offers_problems\models.py:29
+msgid "Problems"
+msgstr ""
+
+#: .\users\models.py:7
+msgid "Created at"
+msgstr ""
+
+#: .\users\models.py:8
+msgid "Updated at"
+msgstr ""
+
+#: .\users\models.py:15
+msgid "Username"
+msgstr ""
+
+#: .\users\models.py:16
+msgid "email address"
+msgstr ""
+
+#: .\users\models.py:17
+msgid "Password"
+msgstr ""
+
+#: .\users\models.py:19
+msgid "Is active"
+msgstr ""
+
+#: .\users\models.py:29
+msgid "Users"
+msgstr ""
